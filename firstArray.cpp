@@ -10,7 +10,7 @@ int main()
     //     cout<<i+1<<"."<<monthsindays[i]<<endl;
     // }
     // While loop;
-    // int i = 0;
+    int i = 0;
     //    while (i< 4)
     //    {
     //     cout<<i+1<<"."<<daysinmonths[i]<<endl;
