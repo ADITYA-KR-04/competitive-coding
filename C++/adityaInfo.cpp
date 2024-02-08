@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-struct person
+ struct person
 {
      int birthdate;
      int month;

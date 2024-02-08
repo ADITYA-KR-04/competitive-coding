@@ -11,10 +11,11 @@ def pattern(n):
             for j in range(n-1):
                 if j==0:
                     s+="* "
-                elif j==(n-2):
-                    s+="*"+"\n"
+                elif(j==(n-2)):
+                    s+="*\n"
                 else:
                     s+="  "
     return s
 print(pattern(n))
+        
         
